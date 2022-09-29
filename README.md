@@ -1,3 +1,3 @@
 # Como visualizar o Quiz?
 
-Acesse a aplicação atráves do: https://pomodoro-yasminmilhomem.vercel.app
+Acesse a aplicação atráves do: https://quiz-yasminmilhomem.vercel.app
