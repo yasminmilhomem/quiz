@@ -1,0 +1,16 @@
+#description {
+    font-size: 18px;
+    padding-top: 40px;
+    padding-bottom: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+#credits {
+    padding: 8px;
+    font-size: 12px;
+}
+
+a{
+    text-decoration: none;
+}

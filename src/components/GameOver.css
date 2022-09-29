@@ -1,0 +1,25 @@
+#gameover {
+    text-align: center;
+    max-width: 500px;
+    display: flex;
+    flex-direction: column;
+}
+
+#gameover h2,
+#gameover p {
+    margin-bottom: 0.8rem;
+}
+
+#gameover p {
+    color: #00bfa6;
+}
+
+#gameover img {
+    margin: 2rem;
+    width: 250px;
+}
+
+#gameover #scorep{
+    font-size: 30px;
+    font-weight: 800;
+}
